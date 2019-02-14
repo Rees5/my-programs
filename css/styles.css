@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  border: 5px solid #405e4f;
+  background-color: #2b4739;
+  color: brown;
+  font-family: monospace;
+  cursor: context-menu;
+  }
+  a {
+    padding: 5px;
+    color: white;
+    font-style: oblique;
+    cursor: pointer;
+  }
+  body {
+    background-color: #288
+  }
+  nav {
+    display: inline-table;
+    float: left;
+    font-size: 19px;
+    background-color: #289
+  }
